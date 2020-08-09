@@ -11,4 +11,12 @@
 
 5. Roll a die 4 times. What is the probability that you get different numbers?
 
-6. 
+6. You walk along a line, each pace being the same length.
+
+Before each step, you flip a coin.
+
+If it’s heads, you take one step forward.  If it’s tails, you take one step back. 
+
+The coin is unbiased, so the chances of heads or tails are equal.
+
+The problem is to find the probability of landing at a given spot after a given number of steps, and, in particular, to find how far away you are on average from where you started.
