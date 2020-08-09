@@ -7,4 +7,8 @@
 
 3. A couple decides to have 4 children. If they succeed in having 4 children and each child is equally likely to be a boy or a girl, what is the probability that they will have exactly 2 girls and 2 boys?
 
-4.
+4.Toss three fair coins. What is the probabitly of exactly one H?
+
+5. Roll a die 4 times. What is the probability that you get different numbers?
+
+6. 
