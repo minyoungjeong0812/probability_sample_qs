@@ -25,3 +25,5 @@ The problem is to find the probability of landing at a given spot after a given 
 8. In the tent next to you there is a family with two children. Early in the morning you see a boy coming out of the tent. What is the probability that the other child is a girl?
 
 Use Bayes' Rule
+
+8. https://ratsgo.github.io/statistics/2017/07/01/bayes/
