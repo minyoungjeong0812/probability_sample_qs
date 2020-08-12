@@ -13,6 +13,7 @@
 
 6. You walk along a line, each pace being the same length.
 
+7. 
 Before each step, you flip a coin.
 
 If it’s heads, you take one step forward.  If it’s tails, you take one step back. 
@@ -20,3 +21,7 @@ If it’s heads, you take one step forward.  If it’s tails, you take one step 
 The coin is unbiased, so the chances of heads or tails are equal.
 
 The problem is to find the probability of landing at a given spot after a given number of steps, and, in particular, to find how far away you are on average from where you started.
+
+8. In the tent next to you there is a family with two children. Early in the morning you see a boy coming out of the tent. What is the probability that the other child is a girl?
+
+Use Bayes' Rule
